@@ -14,13 +14,14 @@ FECS is a web application designed to streamline the process of applying to fore
 - [API Endpoints](#api-endpoints)
 - [Future Enhancements](#future-enhancements)
 
-## Technologies Used
+## tech Used
 
 - Node.js
 - Express.js
 - MySQL
 - HTML/EJS/CSS
 - JavaScript
+-JavaScript
 
 
 ## Project Structure
